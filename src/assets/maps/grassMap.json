@@ -1,0 +1,39 @@
+{ "compressionlevel":-1,
+ "height":5,
+ "width":5,
+ "tileheight":64,
+ "tilewidth":128,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+         "height":5,
+         "width":5,
+         "id":1,
+         "name":"ground",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"isometric",
+ "tiledversion":"1.11.1",
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"/src/assets/tiles/grass.png",
+         "name": "grass",
+         "imagewidth": 128,
+         "imageheight": 128,
+         "tilewidth": 128,
+         "tileheight": 128,
+         "tileproperties": {},
+         "columns": 1
+        }],
+
+ "type":"map",
+ "version":"1.10"
+}
